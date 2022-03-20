@@ -11,11 +11,11 @@ WebforData/WebforData is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 Languages and Tools:
-  -JAVA
-    -JEE
-    -SPRING MVC
+  - JAVA
+    - JEE
+    - SPRING MVC
     -SPRING BOOT
-  -JAVASCRIPT
+  - JAVASCRIPT
     -REACT JS
     -NODE JS
   -PYTHON
