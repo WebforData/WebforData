@@ -16,13 +16,14 @@ Languages and Tools:
     - SPRING MVC
     -SPRING BOOT
   - JAVASCRIPT
-    -REACT JS
-    -NODE JS
-  -PYTHON
-  -PHP
-    -SYMFONY
-  -C
-  -HTML/CSS
-  -MYSQL
-  -MONGO DB
+    - REACT JS
+    - NODE JS
+  - PYTHON
+  - PHP
+    - SYMFONY
+  - C
+  - HTML/CSS
+    - Bootstrap
+  - MYSQL
+  - MONGO DB
  
