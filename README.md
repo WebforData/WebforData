@@ -1,4 +1,4 @@
-  [Gmail](mailto:abdououroui@gmail.com)     |     [linkedin](https://www.linkedin.com/in/abderrahmane-ouroui-5b73b1216/)  | [leetCode] (https://leetcode.com/webfordata/)
+  [Gmail](mailto:abdououroui@gmail.com)     |     [linkedin](https://www.linkedin.com/in/abderrahmane-ouroui-5b73b1216/)  | [leetCode](https://leetcode.com/webfordata/)
 
 - 👋 Hi, I’m @WebforData
 - 👀 I’m interested in full stack development 
