@@ -14,7 +14,7 @@ Languages and Tools:
   - JAVA
     - JEE
     - SPRING MVC
-    -SPRING BOOT
+    - SPRING BOOT
   - JAVASCRIPT
     - REACT JS
     - NODE JS
