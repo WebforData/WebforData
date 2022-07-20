@@ -1,6 +1,6 @@
   [Gmail](mailto:abdououroui@gmail.com)     |     [linkedin](https://www.linkedin.com/in/abderrahmane-ouroui-5b73b1216/)  | [leetCode](https://leetcode.com/webfordata/)
 
-- 👋 Hi, I’m @WebforData
+- 👋 Hi, I’m @abderrahmane_Ouroui
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning spring boot 
 - 💞️ I’m looking to collaborate on in backend projects
