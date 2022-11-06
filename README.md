@@ -15,6 +15,7 @@ Languages and Tools:
     - JEE
     - SPRING MVC
     - SPRING BOOT
+    - Junit + Mockito
   - JAVASCRIPT
     - REACT JS
     - NODE JS
@@ -25,5 +26,11 @@ Languages and Tools:
   - HTML/CSS
     - Bootstrap
   - MYSQL
+  - PostgreSQL
   - MONGO DB
  
+DevOps :
+  - Docker
+  - Jenkins
+  - Kubernates
+  - Nagios
